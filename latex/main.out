@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Algorithm and implementation}{}% 2
+\BOOKMARK [1][-]{section.3}{Numerical results}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Trend of the game value: oscillation and convergence of variance}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Distribution of game value}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Properties of the limits \(converged points\)}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Theoretical analysis}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{recurrence relation}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{convergence}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Uniform distribution}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Gaussian distribution}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 12
